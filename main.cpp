@@ -80,54 +80,54 @@ Part 1a - Step 2: Assignment
 
 Main Object: Car Interior
     Sub Object: Steering Wheel
-        Name 4 nouns you'll find on the [Sub Object]
-            1) paddle shifters
-            2) 'cruise control' controls
-            3) 
-            4) 
+        Name 3 nouns you'll find on the [Sub Object]
+            1) Paddle shifters
+            2) Cruise control controls
+            3) Horn
+            4) Airbag
         Name 2 actions that the [Sub Object] can do:
-            1) adjust cruise control settings.
-            2)
-        
+            1) Adjust cruise control settings
+            2) Activate horn
+
     Sub Object: Instrument Cluster
-        Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+        Name 3 nouns you'll find on the [Sub Object]
+            1) Speedometer
+            2) Tachometer
+            3) Fuel gauge
+            4) Odometer
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
-    
+            1) Display warning lights
+            2) Provide trip information
+            3) Adjust brightness
+
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Air conditioning vents
+            2) Temperature control knobs
+            3) Fan speed buttons
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Adjust temperature
+            2) Control air flow
+            3) Turn on/off defroster
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Touchscreen display
+            2) Volume knob
+            3) Navigation system
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Play music
+            2) Access apps
+            3) Make phone calls
 
-    Sub Object: Seat 
+    Sub Object: Seat
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Headrest
+            2) Seatbelt
+            3) Lumbar support
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) Adjust seat position
+            2) Activate seat heating/cooling
 */
 
 /*
