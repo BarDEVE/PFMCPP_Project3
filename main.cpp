@@ -196,53 +196,53 @@ Part 1b - Step 2: Assignment
         c) pick properties that can eventually be represented with 
         'int float double bool char std::string'.
 
-Thing 1)
+Thing 1) - **Automobile**
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+   1) Height (float)
+   2) Weight (float)
+   3) Age (int)
+   4) Color (string)
+   5) Speed (double)
 3 things it can do:
-    1)
-    2)
-    3)
+   1) Move
+   2) Change color
+   3) Age over time
 
-Thing 2)
+Thing 2) - **Weather Station**
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+   1) Temperature (double)
+   2) Humidity (float)
+   3) Pressure (int)
+   4) Wind speed (float)
+   5) Time of last update (string)
 3 things it can do:
-    1)
-    2)
-    3)
+   1) Measure temperature
+   2) Predict weather
+   3) Record weather data
 
-Thing 3)
+Thing 3) - **Glass Panel**
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+   1) Size (int)
+   2) Shape (string)
+   3) Material (string)
+   4) Weight (double)
+   5) Reflectivity (int)
 3 things it can do:
-    1)
-    2)
-    3)
+   1) Change shape
+   2) Reflect light
+   3) Break under pressure
 
-Thing 4)
+Thing 4) - **Employee**
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+   1) Name (string)
+   2) Age (int)
+   3) Salary (double)
+   4) Job title (string)
+   5) Education level (string)
 3 things it can do:
-    1)
-    2)
-    3)
+   1) Work
+   2) Earn money
+   3) Retire
 */
 
 /*
