@@ -412,6 +412,20 @@ Thing 10)
     1)
     2)
     3)
+
+Thing 10)
+Noun: Drone
+5 properties:
+    1) Frame (Frame type)
+    2) Propellers (Propellers type)
+    3) Camera (Camera type)
+    4) Battery (Battery type)
+    5) Controller (Controller type)
+
+3 things it can do:
+    1) Fly
+    2) Capture aerial footage
+    3) Be controlled remotely
  */
 
  /*
