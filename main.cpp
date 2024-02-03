@@ -302,7 +302,23 @@ Example:
     When you choose your 5 smaller parts, remember that each of 
     these 5 Sub Objects will need to be defined with 5 primitive 
     properties and 3 actions EACH.
+
+    UDT: Smartwatch
+
+    A Smartwatch is built using the following 5 UDTs:
+    1) Display
+    2) Processor
+    3) Memory
+    4) Sensors
+    5) Battery
+
+    A Smartwatch has 3 things it can do:
+    1) Display notifications and information
+    2) Track health and fitness data
+    3) Connect to other devices and apps for functionality
 */
+
+
 
 /*
 ===================
@@ -318,6 +334,54 @@ example:
         Brightness (double)
         area in cm2 (int)
         brand (std::string)
+
+Thing 1) - **Automobile**
+5 properties:
+   1) Height (float)
+   2) Weight (float)
+   3) Age (int)
+   4) Color (string)
+   5) Speed (double)
+3 things it can do:
+   1) Move
+   2) Change color
+   3) Age over time
+
+Thing 2) - **Weather Station**
+5 properties:
+   1) Temperature (double)
+   2) Humidity (float)
+   3) Pressure (int)
+   4) Wind speed (float)
+   5) Time of last update (string)
+3 things it can do:
+   1) Measure temperature
+   2) Predict weather
+   3) Record weather data
+
+Thing 3) - **Glass Panel**
+5 properties:
+   1) Size (int)
+   2) Shape (string)
+   3) Material (string)
+   4) Weight (double)
+   5) Reflectivity (int)
+3 things it can do:
+   1) Change shape
+   2) Reflect light
+   3) Break under pressure
+
+Thing 4) - **Employee**
+5 properties:
+   1) Name (string)
+   2) Age (int)
+   3) Salary (double)
+   4) Job title (string)
+   5) Education level (string)
+3 things it can do:
+   1) Work
+   2) Earn money
+   3) Retire
 */
 
 /*
